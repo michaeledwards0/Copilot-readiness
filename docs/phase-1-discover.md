@@ -40,8 +40,6 @@ Publishing policy: justification required to remove or downgrade a label; no man
 
 ## Evidence
 
-**[VERIFY: capture these, see [screenshots/README.md](../screenshots/README.md)]**
-
 - Audit search <img width="997" height="664" alt="image" src="https://github.com/user-attachments/assets/e33409be-58b1-4fca-8426-14132b32d935" />
 - Purview Sensitivity labels <img width="1353" height="842" alt="image" src="https://github.com/user-attachments/assets/493ad3cd-7a0e-4e0a-9cfd-893afa5ed895" />`
 - Outsider denied access <img width="1160" height="669" alt="image" src="https://github.com/user-attachments/assets/0499139d-a5b0-4683-9b1d-8681d679b76a" />
