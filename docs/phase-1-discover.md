@@ -42,8 +42,9 @@ Publishing policy: justification required to remove or downgrade a label; no man
 
 **[VERIFY: capture these, see [screenshots/README.md](../screenshots/README.md)]**
 
-- `screenshots/phase-1/01-audit-search.png`
-- `screenshots/phase-1/02-labels.png`
-- `screenshots/phase-1/03-baseline-outsider-denied.png`
-- `screenshots/phase-1/04-content-explorer-sits.png`
-- `screenshots/phase-1/05-dspm-before-assessment.png`
+- Audit search <img width="997" height="664" alt="image" src="https://github.com/user-attachments/assets/e33409be-58b1-4fca-8426-14132b32d935" />
+- Purview Sensitivity labels <img width="1353" height="842" alt="image" src="https://github.com/user-attachments/assets/493ad3cd-7a0e-4e0a-9cfd-893afa5ed895" />`
+- Outsider denied access <img width="1160" height="669" alt="image" src="https://github.com/user-attachments/assets/0499139d-a5b0-4683-9b1d-8681d679b76a" />
+- Content Explorer Sits <img width="1331" height="857" alt="image" src="https://github.com/user-attachments/assets/736eb971-ea20-4ee0-983d-f70833da0cd3" />
+- DSPM assessment <img width="1169" height="909" alt="image" src="https://github.com/user-attachments/assets/d7fe583d-ea5e-42e1-a2bd-7e6c63051235" />
+
