@@ -47,10 +47,8 @@ Demo: as `admin@`, no Global Admin → activate in PIM with MFA and justificatio
 
 ## Evidence
 
-**[VERIFY: capture these, see [screenshots/README.md](../screenshots/README.md)]**
-
-- `screenshots/phase-3/01-ca-policy-list.png`
-- `screenshots/phase-3/02-signin-log-ca-applied.png`
-- `screenshots/phase-3/03-pim-activation.png`
+- Conditional Access Policies <img width="1597" height="765" alt="image" src="https://github.com/user-attachments/assets/0de36465-ff3c-49a3-820c-703b5fc879b3" />
+- Conditional Access Policy applied <img width="1742" height="476" alt="image" src="https://github.com/user-attachments/assets/0f147fdb-f5ac-4da8-85a7-2764916b5dd7" />
+- Activated PIM <img width="1650" height="327" alt="image" src="https://github.com/user-attachments/assets/3170c52e-5093-4455-aa3b-9b59e6d346c9" />
 - `screenshots/phase-3/04-copilot-agent-employee.png`
 - `screenshots/phase-3/05-copilot-agent-outsider.png`
