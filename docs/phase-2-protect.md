@@ -33,12 +33,9 @@ All policies were created in simulation mode, reviewed, then turned on.
 
 ## Evidence
 
-**[VERIFY: capture these, see [screenshots/README.md](../screenshots/README.md)]**
-
-- `screenshots/phase-2/01-overshare-grant.png`
+- Overshare Grant <img width="1352" height="931" alt="image" src="https://github.com/user-attachments/assets/0419292e-1db4-4d60-a178-8883922bb2a3" />
 - `screenshots/phase-2/02-outsider-search-hit.png` — blur the test numbers anyway
-- `screenshots/phase-2/03-audit-who-shared.png`
-- `screenshots/phase-2/04-autolabel-policy.png`
-- `screenshots/phase-2/05-outsider-denied-with-link.png`
-- `screenshots/phase-2/06-dlp-policy-tip.png`
-- `screenshots/phase-2/07-dspm-before-after.png`
+- Who shared it? Audit <img width="1789" height="874" alt="image" src="https://github.com/user-attachments/assets/a96f085a-da83-4399-ac5b-6bb3572f7763" />
+- Auto label policy <img width="1673" height="816" alt="image" src="https://github.com/user-attachments/assets/a44fb82f-c504-4fc2-afa5-f204f5b2b123" />
+- DSPM before-after assessment <img width="1682" height="827" alt="image" src="https://github.com/user-attachments/assets/254d9938-7a01-4884-a7cb-5ba0789b10b3" />
+
